@@ -118,14 +118,16 @@ An Akinator-inspired Discord bot.
 
 ---
 
-## 🧰・Tools & Technologies
+## 🛠️ Technologies & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,discord,html,css,js,ts,react,vite,tailwind,supabase,vscode&theme=dark" alt="Development tools and technologies" />
-</p>
-
-<p align="center">
-  <i>Tools and technologies used across my projects.</i>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/OS-111111?style=for-the-badge&logo=apple&logoColor=white" alt="OS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </p>
 
 ---
